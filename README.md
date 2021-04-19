@@ -29,5 +29,5 @@ Therefore, the parameters might be getten by using some machine learning model o
 
 ## Conclusion
 It's an interesting competition because it's my first trading strategy using Python code.
-Thanks a lot for Prof. Liu and Cryto Arensal for providing such meaningful and interesting activity.
+Thanks a lot for Prof. Liao and Cryto Arensal for providing such meaningful and interesting activity.
 It really influences me a lot and makes me think more about how to invest crpytos.
